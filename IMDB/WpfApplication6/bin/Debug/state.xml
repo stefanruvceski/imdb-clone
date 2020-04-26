@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<ArrayOfMovie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Movie>
+    <ID>0</ID>
+    <Name>12 Angry Men</Name>
+    <Year>1957</Year>
+    <Genre>Adventure</Genre>
+    <Producent>Sidney Lumet</Producent>
+    <Score>8.9</Score>
+    <Breaf>A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.</Breaf>
+    <Description>The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young man is guilty or innocent of murdering his father. What begins as an open-and-shut case of murder soon becomes a detective story that presents a succession of clues creating doubt, and a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other. Based on the play, all of the action takes place on the stage of the jury room. </Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,649,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BYjA4N2ViMGUtZWMzNi00MjIwLTk4MjUtMDMzYTE5Mjk4M2RlXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_.jpg</Image2>
+    <Trailer>https://www.youtube.com/watch?v=A7CBKT0PWFA</Trailer>
+    <MovieVideo>https://openload.co/embed/SGGUef0YgVI/12.Angry.Men.1957.720p.BRrip.x264.YIFY.mp4</MovieVideo>
+  </Movie>
+  <Movie>
+    <ID>49</ID>
+    <Name>A Beautiful Mind</Name>
+    <Year>2001</Year>
+    <Genre>Drama</Genre>
+    <Producent>Ron Howard</Producent>
+    <Score>8.2</Score>
+    <Breaf>After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.</Breaf>
+    <Description>From the heights of notoriety to the depths of depravity, John Forbes Nash, Jr. experienced it all. A mathematical genius, he made an astonishing discovery early in his career and stood on the brink of international acclaim. But the handsome and arrogant Nash soon found himself on a painful and harrowing journey of self-discovery. After many years of struggle, he eventually triumphed over his tragedy, and finally - late in life - received the Nobel Prize.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,673,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyODk3OTg2NV5BMl5BanBnXkFtZTgwMzQ2OTUzNTE@._V1_SY1000_CR0,0,1545,1000_AL_.jpg</Image2>
+    <Trailer>https://www.youtube.com/watch?v=aS_d0Ayjw4o</Trailer>
+    <MovieVideo>https://openload.co/embed/mt-8viIWbYQ/</MovieVideo>
+  </Movie>
+  <Movie>
+    <ID>46</ID>
+    <Name>Batman Begins</Name>
+    <Year>2005</Year>
+    <Genre>Action</Genre>
+    <Producent>Christopher Nolan</Producent>
+    <Score>8.3</Score>
+    <Breaf>After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it.</Breaf>
+    <Description>When his parents are killed, billionaire playboy Bruce Wayne relocates to Asia where he is mentored by Henri Ducard and Ra's Al Ghul in how to fight evil. When learning about the plan to wipe out evil in Gotham City by Ducard, Bruce prevents this plan from getting any further and heads back to his home. Back in his original surroundings, Bruce adopts the image of a bat to strike fear into the criminals and the corrupt as the icon known as 'Batman'. But it doesn't stay quiet for long.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BNTM3OTc0MzM2OV5BMl5BanBnXkFtZTYwNzUwMTI3._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNzVlYmQyZDctNmI2ZC00ZTc3LTg4NjgtNjQwMjQxNmFjMWZhXkEyXkFqcGdeQXVyNzA4NzQyMjk@._V1_.jpg</Image2>
+    <Trailer>https://www.youtube.com/watch?v=neY2xVmOfUM</Trailer>
+    <MovieVideo>https://openload.co/embed/zOQYj_Q02dA/Batman_Begins_%282005%29</MovieVideo>
+  </Movie>
+  <Movie>
+    <ID>24</ID>
+    <Name>Casablanca</Name>
+    <Year>1942</Year>
+    <Genre>Romance</Genre>
+    <Producent>Michael Curtiz</Producent>
+    <Score>8.5</Score>
+    <Breaf>In Casablanca in December 1941, a cynical American expatriate encounters a former lover, with unforeseen complications.</Breaf>
+    <Description>The story of Rick Blaine, a cynical world-weary ex-patriate who runs a nightclub in Casablanca, Morocco during the early stages of WWII. Despite the pressure he constantly receives from the local authorities, Rick's cafe has become a kind of haven for refugees seeking to obtain illicit letters that will help them escape to America. But when Ilsa, a former lover of Rick's, and her husband, show up to his cafe one day, Rick faces a tough challenge which will bring up unforeseen complications, heartbreak and ultimately an excruciating decision to make.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0MjU5MDcwNF5BMl5BanBnXkFtZTcwMzcxODMwOQ@@._V1_SY1000_CR0,0,1322,1000_AL_.jpg</Image2>
+    <Trailer>https://www.youtube.com/watch?v=BkL9l7qovsE</Trailer>
+    <MovieVideo>https://openload.co/embed/fkT0rWBo2ME/</MovieVideo>
+  </Movie>
+</ArrayOfMovie>

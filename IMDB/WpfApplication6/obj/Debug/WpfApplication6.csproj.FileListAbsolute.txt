@@ -1,0 +1,103 @@
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\MainWindow.g.cs
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\App.g.cs
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.cache
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.lref
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.exe.config
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.exe
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.pdb
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\MainWindow.baml
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.g.resources
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.Properties.Resources.resources
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.csproj.GenerateResource.Cache
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.exe
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.pdb
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\ExistingMovie.g.cs
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\ExistingMovie.baml
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\Info.g.cs
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\Info.baml
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\NewMovie.g.cs
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\NewMovie.baml
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.csprojResolveAssemblyReference.cache
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\bin\Debug\WpfApplication6.exe.config
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\WpfApplication6.exe
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\WpfApplication6.pdb
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\bin\Debug\WpfApplication6.exe
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\bin\Debug\WpfApplication6.pdb
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\WpfApplication6.csprojResolveAssemblyReference.cache
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\ExistingMovie.g.cs
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\Info.g.cs
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\MainWindow.g.cs
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\NewMovie.g.cs
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\App.g.cs
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.cache
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.lref
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\ExistingMovie.baml
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\Info.baml
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\MainWindow.baml
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\NewMovie.baml
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\WpfApplication6.g.resources
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\WpfApplication6.Properties.Resources.resources
+C:\Users\STEFAN\Documents\Visual Studio 2015\Projects\WpfApplication6 - Copy\WpfApplication6\obj\Debug\WpfApplication6.csproj.GenerateResource.Cache
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\bin\Debug\WpfApplication6.exe.config
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\bin\Debug\WpfApplication6.exe
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\bin\Debug\WpfApplication6.pdb
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.csprojResolveAssemblyReference.cache
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\ExistingMovie.g.cs
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\Info.g.cs
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\MainWindow.g.cs
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\NewMovie.g.cs
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\App.g.cs
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.cache
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.lref
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\ExistingMovie.baml
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\Info.baml
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\MainWindow.baml
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\NewMovie.baml
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.g.resources
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.Properties.Resources.resources
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.csproj.GenerateResource.cache
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.csproj.CoreCompileInputs.cache
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.exe
+D:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.pdb
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\bin\Debug\WpfApplication6.exe.config
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\bin\Debug\WpfApplication6.exe
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\bin\Debug\WpfApplication6.pdb
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.csprojAssemblyReference.cache
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\ExistingMovie.g.cs
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\Info.g.cs
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\MainWindow.g.cs
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\NewMovie.g.cs
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\App.g.cs
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.cache
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.lref
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\ExistingMovie.baml
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\Info.baml
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\MainWindow.baml
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\NewMovie.baml
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.g.resources
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.Properties.Resources.resources
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.csproj.GenerateResource.cache
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.csproj.CoreCompileInputs.cache
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.exe
+E:\FTN\III godina\I Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.pdb
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\bin\Debug\WpfApplication6.exe.config
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\bin\Debug\WpfApplication6.exe
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\bin\Debug\WpfApplication6.pdb
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.csprojAssemblyReference.cache
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\ExistingMovie.g.cs
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\Info.g.cs
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\MainWindow.g.cs
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\NewMovie.g.cs
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\App.g.cs
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.cache
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.lref
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\ExistingMovie.baml
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\Info.baml
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\MainWindow.baml
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\NewMovie.baml
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.g.resources
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.Properties.Resources.resources
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.csproj.GenerateResource.cache
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.csproj.CoreCompileInputs.cache
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.exe
+D:\FTN\III Godina\V Semestar\HCI\Vezbe\Zadatak1\IMDB\WpfApplication6\obj\Debug\WpfApplication6.pdb

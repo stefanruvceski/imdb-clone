@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMovie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Movie>
+    <ID>1</ID>
+    <Name>The Shawshank Redemption</Name>
+    <Year>1994</Year>
+    <Genre>Drama</Genre>
+    <Producent>Frank Darabont</Producent>
+    <Score>9.3</Score>
+    <Breaf>Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.</Breaf>
+    <Description>Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SY1000_CR0,0,672,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNjQ2NDA3MDcxMF5BMl5BanBnXkFtZTgwMjE5NTU0NzE@._V1_CR0,60,640,360_AL_UX477_CR0,0,477,268_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>2</ID>
+    <Name>The Godfather</Name>
+    <Year>1972</Year>
+    <Genre>Drama</Genre>
+    <Producent>Francis Ford Coppola</Producent>
+    <Score>9.2</Score>
+    <Breaf>The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.</Breaf>
+    <Description>When the aging head of a famous crime family decides to transfer his position to one of his subalterns, a series of unfortunate events start happening to the family, and a war begins between all the well-known families leading to insolence, deportation, murder and revenge, and ends with the favorable successor being finally chosen.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BZTRmNjQ1ZDYtNDgzMy00OGE0LWE4N2YtNTkzNWQ5ZDhlNGJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,704,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5OTE4MDM5N15BMl5BanBnXkFtZTcwNDAyMDg0Nw@@._V1_CR0,60,640,360_AL_UX477_CR0,0,477,268_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>3</ID>
+    <Name>The Godfather: Part II</Name>
+    <Year>1974</Year>
+    <Genre>Drama</Genre>
+    <Producent>Francis Ford Coppola</Producent>
+    <Score>9</Score>
+    <Breaf>The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on the family crime syndicate.</Breaf>
+    <Description>The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMjZiNzIxNTQtNDc5Zi00YWY1LThkMTctMDgzYjY4YjI1YmQyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,702,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTdhMDM3MGMtM2IwYS00ZDc3LTg4MjYtMTM4NGJjNmJjM2QzXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_CR0,0,1333,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>4</ID>
+    <Name>The Dark Knight</Name>
+    <Year>2008</Year>
+    <Genre>Action</Genre>
+    <Producent>Christopher Nolan</Producent>
+    <Score>9</Score>
+    <Breaf>When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, the Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.</Breaf>
+    <Description>Set within a year after the events of Batman Begins, Batman, Lieutenant James Gordon, and new district attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City until a mysterious and sadistic criminal mastermind known only as the Joker appears in Gotham, creating a new wave of chaos. Batman's struggle against the Joker becomes deeply personal, forcing him to "confront everything he believes" and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent and Rachel Dawes.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNTQwODYzMDg0NV5BMl5BanBnXkFtZTcwMzcxMTk2Mw@@._V1_SY1000_CR0,0,1297,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>5</ID>
+    <Name>12 Angry Men</Name>
+    <Year>1957</Year>
+    <Genre>Drama</Genre>
+    <Producent>Sidney Lumet</Producent>
+    <Score>8.9</Score>
+    <Breaf>A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.</Breaf>
+    <Description>The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young man is guilty or innocent of murdering his father. What begins as an open-and-shut case of murder soon becomes a detective story that presents a succession of clues creating doubt, and a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other. Based on the play, all of the action takes place on the stage of the jury room. </Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,649,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BYjA4N2ViMGUtZWMzNi00MjIwLTk4MjUtMDMzYTE5Mjk4M2RlXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>6</ID>
+    <Name>Schindler's List</Name>
+    <Year>1993</Year>
+    <Genre>Biography</Genre>
+    <Producent>Steven Spielberg</Producent>
+    <Score>8.9</Score>
+    <Breaf>In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans.</Breaf>
+    <Description>Oskar Schindler is a vainglorious and greedy German businessman who becomes an unlikely humanitarian amid the barbaric German Nazi reign when he feels compelled to turn his factory into a refuge for Jews. Based on the true story of Oskar Schindler who managed to save about 1100 Jews from being gassed at the Auschwitz concentration camp, it is a testament to the good in all of us.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,666,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNzg3MDkxM15BMl5BanBnXkFtZTcwMzA2MDAxMw@@._V1_SY1000_CR0,0,1459,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>7</ID>
+    <Name>Pulp Fiction</Name>
+    <Year>1994</Year>
+    <Genre>Drama </Genre>
+    <Producent>Quentin Tarantino</Producent>
+    <Score>8.9</Score>
+    <Breaf>The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.</Breaf>
+    <Description>Jules Winnfield (Samuel L. Jackson) and Vincent Vega (John Travolta) are two hit men who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace (Ving Rhames). Wallace has also asked Vincent to take his wife Mia (Uma Thurman) out a few days later when Wallace himself will be out of town. Butch Coolidge (Bruce Willis) is an aging boxer who is paid by Wallace to lose his fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_SY1000_CR0,0,673,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNWQwMDRlMjctNzA3Mi00NDJlLThhZWEtY2I5NmNjMDk4OThhXkEyXkFqcGdeQXVyNjAwODA4Mw@@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>8</ID>
+    <Name>Fight Club</Name>
+    <Year>1999</Year>
+    <Genre>Drama </Genre>
+    <Producent>David Fincher</Producent>
+    <Score>8.8</Score>
+    <Breaf>An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more.</Breaf>
+    <Description>A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla (Helena Bonham Carter), another fake attendee of support groups, his life seems to become a little more bearable. However when he associates himself with Tyler (Brad Pitt) he is dragged into an underground fight club and soap making scheme. Together the two men spiral out of control and engage in competitive rivalry for love and power. When the narrator is exposed to the hidden agenda of Tyler's fight club, he must accept the awful truth that Tyler may not be who he says he is. </Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BZGY5Y2RjMmItNDg5Yy00NjUwLThjMTEtNDc2OGUzNTBiYmM1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMjk3NTYyMzc4Nl5BMl5BanBnXkFtZTcwODU3ODMzMw@@._V1_SY1000_CR0,0,1413,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>9</ID>
+    <Name>Forrest Gump</Name>
+    <Year>1994</Year>
+    <Genre>Drama</Genre>
+    <Producent>Robert Zemeckis</Producent>
+    <Score>8.8</Score>
+    <Breaf>JFK, LBJ, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.</Breaf>
+    <Description>Forrest Gump is a simple man with a low I.Q. but good intentions. He is running through childhood with his best and only friend Jenny. His 'mama' teaches him the ways of life and leaves him to choose his destiny. Forrest joins the army for service in Vietnam, finding new friends called Dan and Bubba, he wins medals, creates a famous shrimp fishing fleet, inspires people to jog, starts a ping-pong craze, creates the smiley, writes bumper stickers and songs, donates to people and meets the president several times. However, this is all irrelevant to Forrest who can only think of his childhood sweetheart Jenny Curran, who has messed up her life. Although in the end all he wants to prove is that anyone can love anyone.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NDA0OTc2Ml5BMl5BanBnXkFtZTcwMzI1Njc2OA@@._V1_SY1000_CR0,0,1510,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>10</ID>
+    <Name>Inception</Name>
+    <Year>2010</Year>
+    <Genre>Action</Genre>
+    <Producent>Christopher Nolan</Producent>
+    <Score>8.8</Score>
+    <Breaf>A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.</Breaf>
+    <Description>Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible - inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI2NDI3NTA4M15BMl5BanBnXkFtZTgwMDQ5NjYzMzE@._V1_CR167,0,946,532_AL_UY268_CR84,0,477,268_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>11</ID>
+    <Name>Goodfellas</Name>
+    <Year>1990</Year>
+    <Genre>Biography</Genre>
+    <Producent>Martin Scorsese</Producent>
+    <Score>8.7</Score>
+    <Breaf>The story of Henry Hill and his life through the teen years into the years of mafia, covering his relationship with his wife Karen Hill and his Mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.</Breaf>
+    <Description>Henry Hill might be a small time gangster, who may have taken part in a robbery with Jimmy Conway and Tommy De Vito, two other gangsters who might have set their sights a bit higher. His two partners could kill off everyone else involved in the robbery, and slowly start to think about climbing up through the hierarchy of the Mob. Henry, however, might be badly affected by his partners' success, but will he consider stooping low enough to bring about the downfall of Jimmy and Tommy?</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BNThjMzczMjctZmIwOC00NTQ4LWJhZWItZDdhNTk5ZTdiMWFlXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY1000_CR0,0,669,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyNDA2NDU4Nl5BMl5BanBnXkFtZTcwMTMwMjMwNA@@._V1_SY1000_CR0,0,1508,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>12</ID>
+    <Name>The Matrix</Name>
+    <Year>1999</Year>
+    <Genre>Sci-Fi</Genre>
+    <Producent>Wachowski Brothers</Producent>
+    <Score>8.7</Score>
+    <Breaf>A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.</Breaf>
+    <Description>Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. Morpheus awakens Neo to the real world, a ravaged wasteland where most of humanity have been captured by a race of machines that live off of the humans' body heat and electrochemical energy and who imprison their minds within an artificial reality known as the Matrix. As a rebel against the machines, Neo must return to the Matrix and confront the agents: super-powerful computer programs devoted to snuffing out Neo and the entire human rebellion.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,665,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNzM4OTkzMjcxOF5BMl5BanBnXkFtZTgwMTkxMjI1MTI@._V1_SX1777_CR0,0,1777,738_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>13</ID>
+    <Name>City of God</Name>
+    <Year>2002</Year>
+    <Genre>Drama</Genre>
+    <Producent>Fernando Meirelles</Producent>
+    <Score>8.7</Score>
+    <Breaf>Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.</Breaf>
+    <Description>Brazil, 1960s, City of God. The Tender Trio robs motels and gas trucks. Younger kids watch and learn well...too well. 1970s: Li'l Zé has prospered very well and owns the city. He causes violence and fear as he wipes out rival gangs without mercy. His best friend Bené is the only one to keep him on the good side of sanity. Rocket has watched these two gain power for years, and he wants no part of it. Yet he keeps getting swept up in the madness. All he wants to do is take pictures. 1980s: Things are out of control between the last two remaining gangs...will it ever end? Welcome to the City of God.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BNTM4MjZjNWEtMmQxMi00YzY5LTg4ZTAtODJlMDVkZWZmNTVhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_CR0,0,677,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ4MjgyNjAwNl5BMl5BanBnXkFtZTcwMTk2MzA1OQ@@._V1_SX1777_CR0,0,1777,970_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>14</ID>
+    <Name>Se7en</Name>
+    <Year>1995</Year>
+    <Genre>Drama</Genre>
+    <Producent>David Fincher</Producent>
+    <Score>8.6</Score>
+    <Breaf>Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.</Breaf>
+    <Description>A film about two homicide detectives' (Morgan Freeman and (Brad Pitt desperate hunt for a serial killer who justifies his crimes as absolution for the world's ignorance of the Seven Deadly Sins. The movie takes us from the tortured remains of one victim to the next as the sociopathic "John Doe" (Kevin Spacey) sermonizes to Detectives Somerset and Mills -- one sin at a time. The sin of Gluttony comes first and the murderer's terrible capacity is graphically demonstrated in the dark and subdued tones characteristic of film noir. The seasoned and cultured but jaded Somerset researches the Seven Deadly Sins in an effort to understand the killer's modus operandi while the bright but green and impulsive Detective Mills (Pitt) scoffs at his efforts to get inside the mind of a killer...</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,639,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI3MTU0ODQ2MF5BMl5BanBnXkFtZTcwNTQzNTIwNA@@._V1_SX1471_CR0,0,1471,999_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>15</ID>
+    <Name>The Silence of the Lambs</Name>
+    <Year>1991</Year>
+    <Genre>Thriller </Genre>
+    <Producent>Jonathan Demme</Producent>
+    <Score>8.6</Score>
+    <Breaf>A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.</Breaf>
+    <Description>FBI trainee Clarice Starling works hard to advance her career, while trying to hide/put behind her West Virginia roots, of which if some knew, would automatically classify her as being backward or white trash. After graduation, she aspires to work in the agency's Behavioral Science Unit under the leadership of Jack Crawford. While she is still a trainee, Crawford asks her to question Dr. Hannibal Lecter, a psychiatrist imprisoned, thus far, for eight years in maximum security isolation for being a serial killer who cannibalized his victims. Clarice is able to figure out the assignment is to pick Lecter's brains to help them solve another serial murder case, that of someone coined by the media as Buffalo Bill, who has so far killed five victims, all located in the eastern US, all young women who are slightly overweight (especially around the hips), all who were drowned in natural bodies of water, and all who were stripped of large swaths of skin. She also figures that Crawford chose.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,677,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2NzAyMDM5N15BMl5BanBnXkFtZTcwNTQ3NDY3Mw@@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>16</ID>
+    <Name>It's a Wonderful Life</Name>
+    <Year>1946</Year>
+    <Genre>Drama</Genre>
+    <Producent>Frank Capra</Producent>
+    <Score>8.6</Score>
+    <Breaf>An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.</Breaf>
+    <Description>George Bailey has spent his entire life giving of himself to the people of Bedford Falls. He has always longed to travel but never had the opportunity in order to prevent rich skinflint Mr. Potter from taking over the entire town. All that prevents him from doing so is George's modest building and loan company, which was founded by his generous father. But on Christmas Eve, George's Uncle Billy loses the business's $8,000 while intending to deposit it in the bank. Potter finds the misplaced money and hides it from Billy. When the bank examiner discovers the shortage later that night, George realizes that he will be held responsible and sent to jail and the company will collapse, finally allowing Potter to take over the town. Thinking of his wife, their young children, and others he loves will be better off with him dead, he contemplates suicide. But the prayers of his loved ones result in a gentle angel named Clarence coming to earth to help George, with the promise of earning his.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SY1000_CR0,0,687,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNWJhYzc2ZDktYzI3OS00YzcyLThjOWItY2NjMDdjZjJhMGZhXkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SY1000_CR0,0,1454,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>17</ID>
+    <Name>Life Is Beautiful</Name>
+    <Year>1997</Year>
+    <Genre>Drama</Genre>
+    <Producent>Roberto Benigni</Producent>
+    <Score>8.6</Score>
+    <Breaf>When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.</Breaf>
+    <Description>In 1930s Italy, a carefree Jewish book keeper named Guido starts a fairy tale life by courting and marrying a lovely woman from a nearby city. Guido and his wife have a son and live happily together until the occupation of Italy by German forces. In an attempt to hold his family together and help his son survive the horrors of a Jewish Concentration Camp, Guido imagines that the Holocaust is a game and that the grand prize for winning is a tank.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BOWY1OWI1MmUtNjAxYy00MmRiLWI4YWItYjNjMmU4Yzc3M2QxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_CR0,0,666,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BYzQ3MzllOGYtNzYxNy00MmViLWE4ODQtOTZhZTRmNzg3ZjQ3XkEyXkFqcGdeQXVyNjM0ODQ2MDk@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>18</ID>
+    <Name>The Usual Suspects</Name>
+    <Year>1995</Year>
+    <Genre>Mystery</Genre>
+    <Producent>Bryan Singer</Producent>
+    <Score>8.6</Score>
+    <Breaf>A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.</Breaf>
+    <Description>Following a truck hijack in New York, five conmen are arrested and brought together for questioning. As none of them are guilty, they plan a revenge operation against the police. The operation goes well, but then the influence of a legendary mastermind criminal called Keyser Söze is felt. It becomes clear that each one of them has wronged Söze at some point and must pay back now. The payback job leaves 27 men dead in a boat explosion, but the real question arises now: Who actually is Keyser Söze?</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,670,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0MTA5NjgyM15BMl5BanBnXkFtZTcwODE4Mjg3NA@@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>19</ID>
+    <Name>Léon: The Professional</Name>
+    <Year>1994</Year>
+    <Genre>Thriller</Genre>
+    <Producent>Luc Besson</Producent>
+    <Score>8.6</Score>
+    <Breaf>Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. Léon and Mathilda form an unusual relationship, as she becomes his protégée and learns the assassin's trade.</Breaf>
+    <Description>After her father, mother, older sister and little brother are killed by her father's employers, the 12-year-old daughter of an abject drug dealer is forced to take refuge in the apartment of a professional hitman who at her request teaches her the methods of his job so she can take her revenge on the corrupt DEA agent who ruined her life by killing her beloved brother.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BZDAwYTlhMDEtNTg0OS00NDY2LWJjOWItNWY3YTZkM2UxYzUzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_CR0,0,710,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BZGZlM2M1YWEtMTA2OC00ODkwLTlmYTktOTI1ZTVjM2QzOGI4XkEyXkFqcGdeQXVyMzM2NzgzNjM@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>20</ID>
+    <Name>Saving Private Ryan</Name>
+    <Year>1998</Year>
+    <Genre>Drama</Genre>
+    <Producent>Steven Spielberg</Producent>
+    <Score>8.6</Score>
+    <Breaf>Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.</Breaf>
+    <Description>Opening with the Allied invasion of Normandy on 6 June 1944, members of the 2nd Ranger Battalion under Cpt. Miller fight ashore to secure a beachhead. Amidst the fighting, two brothers are killed in action. Earlier in New Guinea, a third brother is KIA. Their mother, Mrs. Ryan, is to receive all three of the grave telegrams on the same day. The United States Army Chief of Staff, George C. Marshall, is given an opportunity to alleviate some of her grief when he learns of a fourth brother, Private James Ryan, and decides to send out 8 men (Cpt. Miller and select members from 2nd Rangers) to find him and bring him back home to his mother.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY1000_CR0,0,679,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5MzI1MDE5Nl5BMl5BanBnXkFtZTcwNDM3NzgwMw@@._V1_SY1000_CR0,0,1493,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>21</ID>
+    <Name>American History X</Name>
+    <Year>1998</Year>
+    <Genre>Drama</Genre>
+    <Producent>Tony Kaye</Producent>
+    <Score>8.5</Score>
+    <Breaf>A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.</Breaf>
+    <Description>Derek Vineyard is paroled after serving 3 years in prison for brutally killing two black men who tried to break into/steal his truck. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BODU0Njg0ODM5N15BMl5BanBnXkFtZTcwMTIxODY3Mw@@._V1_SX1500_CR0,0,1500,999_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>22</ID>
+    <Name>Interstellar</Name>
+    <Year>2014</Year>
+    <Genre>Sci-Fi</Genre>
+    <Producent>Christopher Nolan</Producent>
+    <Score>8.6</Score>
+    <Breaf>A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.</Breaf>
+    <Description>Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SY1000_CR0,0,640,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNzVmM2E1YzEtYTNkZC00YmM0LWEwNGItZTZhOWQ0MDAxZjE0XkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>23</ID>
+    <Name>The Green Mile</Name>
+    <Year>1999</Year>
+    <Genre>Drama</Genre>
+    <Producent>Frank Darabont</Producent>
+    <Score>8.5</Score>
+    <Breaf>The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.</Breaf>
+    <Description>Death Row guards at a penitentiary, in the 1930's, have a moral dilemma with their job when they discover one of their prisoners, a convicted murderer, has a special gift.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BM2JlMzE2ZGMtOGQ5ZC00ODgwLWIyNzItY2RiZGQxMmY0ZTFiXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX1777_CR0,0,1777,999_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>24</ID>
+    <Name>Psycho</Name>
+    <Year>1960</Year>
+    <Genre>Thriller</Genre>
+    <Producent>Alfred Hitchcock</Producent>
+    <Score>8.5</Score>
+    <Breaf>A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.</Breaf>
+    <Description>Phoenix officeworker Marion Crane is fed up with the way life has treated her. She has to meet her lover Sam in lunch breaks and they cannot get married because Sam has to give most of his money away in alimony. One Friday Marion is trusted to bank $40,000 by her employer. Seeing the opportunity to take the money and start a new life, Marion leaves town and heads towards Sam's California store. Tired after the long drive and caught in a storm, she gets off the main highway and pulls into The Bates Motel. The motel is managed by a quiet young man called Norman who seems to be dominated by his mother.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMzJmNjEzZDYtNGViZC00MTBiLTllZjYtOTY1YjBjZmMyODg0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,643,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTIxNzEyNzAwNl5BMl5BanBnXkFtZTcwNzQwOTQ3MQ@@._V1_SY1000_CR0,0,1332,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>25</ID>
+    <Name>Casablanca</Name>
+    <Year>1942</Year>
+    <Genre>Romance</Genre>
+    <Producent>Michael Curtiz</Producent>
+    <Score>8.5</Score>
+    <Breaf>In Casablanca in December 1941, a cynical American expatriate encounters a former lover, with unforeseen complications.</Breaf>
+    <Description>The story of Rick Blaine, a cynical world-weary ex-patriate who runs a nightclub in Casablanca, Morocco during the early stages of WWII. Despite the pressure he constantly receives from the local authorities, Rick's cafe has become a kind of haven for refugees seeking to obtain illicit letters that will help them escape to America. But when Ilsa, a former lover of Rick's, and her husband, show up to his cafe one day, Rick faces a tough challenge which will bring up unforeseen complications, heartbreak and ultimately an excruciating decision to make.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0MjU5MDcwNF5BMl5BanBnXkFtZTcwMzcxODMwOQ@@._V1_SY1000_CR0,0,1322,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>26</ID>
+    <Name>City Lights</Name>
+    <Year>1931</Year>
+    <Genre>Comedy</Genre>
+    <Producent>Charles Chaplin</Producent>
+    <Score>8.6</Score>
+    <Breaf>With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.</Breaf>
+    <Description>A tramp falls in love with a beautiful blind girl. Her family is in financial trouble. The tramp's on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BZDRjMmI3ZjgtMGE3Mi00NjY5LTg0NWMtMmU3YzgyMjhmMjIzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,661,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNTIzODMwODU2NF5BMl5BanBnXkFtZTcwNzY3NzE5Ng@@._V1_SX1353_CR0,0,1353,999_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>27</ID>
+    <Name>The Intouchables</Name>
+    <Year>2011</Year>
+    <Genre>Biography</Genre>
+    <Producent>Olivier Nakache</Producent>
+    <Score>8.6</Score>
+    <Breaf>After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.</Breaf>
+    <Description>In Paris, the aristocratic and intellectual Philippe is a quadriplegic millionaire who is interviewing candidates for the position of his carer, with his red-haired secretary Magalie. Out of the blue, the rude African Driss cuts the line of candidates and brings a document from the Social Security and asks Phillipe to sign it to prove that he is seeking a job position so he can receive his unemployment benefit. Philippe challenges Driss, offering him a trial period of one month to gain experience helping him. Then Driss can decide whether he would like to stay with him or not. Driss accepts the challenge and moves to the mansion, changing the boring life of Phillipe and his employees.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNjdhZDAxZjQtMmM5Ni00Yjg2LTg5MzctNDkzZTk1NzlmMjE3XkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>28</ID>
+    <Name>The Pianist</Name>
+    <Year>2002</Year>
+    <Genre>Biography</Genre>
+    <Producent>Roman Polanski</Producent>
+    <Score>8.5</Score>
+    <Breaf>A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.</Breaf>
+    <Description>In this adaptation of the autobiography "The Pianist: The Extraordinary True Story of One Man's Survival in Warsaw, 1939-1945," Wladyslaw Szpilman, a Polish Jewish radio station pianist, sees Warsaw change gradually as World War II begins. Szpilman is forced into the Warsaw Ghetto, but is later separated from his family during Operation Reinhard. From this time until the concentration camp prisoners are released, Szpilman hides in various locations among the ruins of Warsaw.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,724,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4MzAwMjEwMV5BMl5BanBnXkFtZTcwMTgxMTIyMw@@._V1_SY1000_CR0,0,1491,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>29</ID>
+    <Name>The Departed</Name>
+    <Year>2006</Year>
+    <Genre>Thriller</Genre>
+    <Producent>Martin Scorsese</Producent>
+    <Score>8.5</Score>
+    <Breaf>An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.</Breaf>
+    <Description>In South Boston, the state police force is waging war on Irish-American organized crime. Young undercover cop Billy Costigan is assigned to infiltrate the mob syndicate run by gangland chief Frank Costello. While Billy quickly gains Costello's confidence, Colin Sullivan, a hardened young criminal who has infiltrated the state police as an informer for the syndicate is rising to a position of power in the Special Investigation Unit.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BZTQxOTRjYmYtZmIwZC00Y2JiLWJhMDItNDQ1OGQ4NTZjNDYwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>30</ID>
+    <Name>Terminator 2</Name>
+    <Year>1991</Year>
+    <Genre>Action</Genre>
+    <Producent>James Cameron</Producent>
+    <Score>8.5</Score>
+    <Breaf>A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son, John Connor, from a more advanced cyborg.</Breaf>
+    <Description>Over 10 years have passed since the first cyborg called The Terminator tried to kill Sarah Connor and her unborn son, John Connor. John Connor, the future leader of the human resistance, is now a healthy young boy. However another Terminator is sent back through time called the T-1000, which is more advanced and more powerful than its predecessor. The Mission: to kill John Connor when he's still a child. However, Sarah and John do not have to face this threat of a Terminator alone. Another Terminator is also sent back through time. The mission: to protect John and Sarah Connor at all costs. The battle for tomorrow has begun.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY999_CR0,0,672,999_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BOTIzM2QwZDItZTJmNy00ZmVkLTk5ZjYtOGIwMzcwY2MxZjgxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>31</ID>
+    <Name>Back to the Future</Name>
+    <Year>1985</Year>
+    <Genre>Sci-Fi </Genre>
+    <Producent>Robert Zemeckis</Producent>
+    <Score>8.5</Score>
+    <Breaf>Marty McFly, a seventeen-year-old high school student, is accidentally sent thirty years into the past in a time-travelling DeLorean invented by his close friend, the maverick scientist Doc Brown.</Breaf>
+    <Description>Marty McFly, a typical American teenager of the Eighties, is accidentally sent back to 1955 in a plutonium-powered DeLorean "time machine" invented by a slightly mad scientist. During his often hysterical, always amazing trip back in time, Marty must make certain his teenage parents-to-be meet and fall in love - so he can get back to the future.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,643,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNjE4Mzk3NjM4MF5BMl5BanBnXkFtZTcwOTUxNDc0NA@@._V1_SY1000_CR0,0,1517,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>32</ID>
+    <Name>Whiplash</Name>
+    <Year>2014</Year>
+    <Genre>Drama</Genre>
+    <Producent>Damien Chazelle</Producent>
+    <Score>8.5</Score>
+    <Breaf>A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.</Breaf>
+    <Description>A young and talented drummer attending a prestigious music academy finds himself under the wing of the most respected professor at the school, one who does not hold back on abuse towards his students. The two form an odd relationship as the student wants to achieve greatness, and the professor pushes him.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BOTVhMWQ5MDktMGE3OS00MjVlLWExZWYtMzY2MTg4ZGFiZDQ5L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_SX675_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNzgwOTY4NV5BMl5BanBnXkFtZTgwMTQ1NTE4MjE@._V1_SX1500_CR0,0,1500,999_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>33</ID>
+    <Name>Gladiator</Name>
+    <Year>2000</Year>
+    <Genre>Action</Genre>
+    <Producent>Ridley Scott</Producent>
+    <Score>8.5</Score>
+    <Breaf>When a Roman General is betrayed, and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.</Breaf>
+    <Description>Maximus is a powerful Roman general, loved by the people and the aging Emperor, Marcus Aurelius. Before his death, the Emperor chooses Maximus to be his heir over his own son, Commodus, and a power struggle leaves Maximus and his family condemned to death. The powerful general is unable to save his family, and his loss of will allows him to get captured and put into the Gladiator games until he dies. The only desire that fuels him now is the chance to rise to the top so that he will be able to look into the eyes of the man who will feel his revenge.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,675,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNjY5OTEyNTkzN15BMl5BanBnXkFtZTcwNDU0NjcxNA@@._V1_SY1000_CR0,0,1479,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>34</ID>
+    <Name>The Prestige</Name>
+    <Year>2006</Year>
+    <Genre>Drama</Genre>
+    <Producent>Christopher Nolan</Producent>
+    <Score>8.5</Score>
+    <Breaf>After a tragic accident two stage magicians engage in a battle to create the ultimate illusion whilst sacrificing everything they have to outwit the other.</Breaf>
+    <Description>In the end of the Nineteenth Century, in London, Robert Angier, his beloved wife Julia McCullough and Alfred Borden are friends and assistants of a magician. When Julia accidentally dies during a performance, Robert blames Alfred for her death and they become enemies. Both become famous and rival magicians, sabotaging the performance of the other on the stage. When Alfred performs a successful trick, Robert becomes obsessed trying to disclose the secret of his competitor with tragic consequences.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BZDYxNTUyZDUtNzcwYi00YjRmLTg1ZGEtYWM5YzA1Mjk5MzcwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>35</ID>
+    <Name>The Lion King</Name>
+    <Year>1994</Year>
+    <Genre>Animation</Genre>
+    <Producent>Roger Allers</Producent>
+    <Score>8.5</Score>
+    <Breaf>Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.</Breaf>
+    <Description>A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be?</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BODgxYmZkMDgtNGYyMS00ZWRhLWFmYzItNjFiODg0Yzk5YjNmXkEyXkFqcGdeQXVyNjU3NDQ1NzA@._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2ODAwNTc0NV5BMl5BanBnXkFtZTcwMjQ2NTI3Ng@@._V1_SX1777_CR0,0,1777,999_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>36</ID>
+    <Name>Memento</Name>
+    <Year>2000</Year>
+    <Genre>Thriller </Genre>
+    <Producent>Christopher Nolan</Producent>
+    <Score>8.5</Score>
+    <Breaf>A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.</Breaf>
+    <Description>Memento chronicles two separate stories of Leonard, an ex-insurance investigator who can no longer build new memories, as he attempts to find the murderer of his wife, which is the last thing he remembers. One story line moves forward in time while the other tells the story backwards revealing more each time.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,681,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BZTEwY2UzNDgtMWRkZS00MWZlLThmYjctMTZiZjc3ZTQ2MDkxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>37</ID>
+    <Name>Blade Runner 2049</Name>
+    <Year>2017</Year>
+    <Genre>Thriller</Genre>
+    <Producent>Denis Villeneuve</Producent>
+    <Score>8.5</Score>
+    <Breaf>A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.</Breaf>
+    <Description>Thirty years after the events of the first film, a new blade runner, LAPD Officer K (Ryan Gosling), unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard (Harrison Ford), a former LAPD blade runner who has been missing for 30 years.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BOWQ2M2ZlZmItYTZhYy00ZWZhLWE2NjQtNDc5Y2U4MDU0ZWZkXkEyXkFqcGdeQXVyNzg2ODI2OTU@._V1_SX1777_CR0,0,1777,740_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>38</ID>
+    <Name>Django Unchained</Name>
+    <Year>2012</Year>
+    <Genre>Drama</Genre>
+    <Producent>Quentin Tarantino</Producent>
+    <Score>8.4</Score>
+    <Breaf>With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.</Breaf>
+    <Description>A German dentist buys the freedom of a slave and trains him with the intent to make him his deputy bounty hunter. Instead, he is led to the site of the slave's wife who belongs to a ruthless plantation owner.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNzQ5YzIxMjUtNmE0OC00MWM1LTliODAtM2ZjNTYwN2NjNmRiXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_SY1000_CR0,0,1753,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>39</ID>
+    <Name>WALL·E</Name>
+    <Year>2008</Year>
+    <Genre>Animation</Genre>
+    <Producent>Andrew Stanton</Producent>
+    <Score>8.4</Score>
+    <Breaf>In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.</Breaf>
+    <Description>n a distant, but not so unrealistic, future where mankind has abandoned earth because it has become covered with trash from products sold by the powerful multi-national Buy N Large corporation, WALL-E, a garbage collecting robot has been left to clean up the mess. Mesmerized with trinkets of Earth's history and show tunes, WALL-E is alone on Earth except for a sprightly pet cockroach. One day, EVE, a sleek (and dangerous) reconnaissance robot, is sent to Earth to find proof that life is once again sustainable. WALL-E falls in love with EVE. WALL-E rescues EVE from a dust storm and shows her a living plant he found amongst the rubble.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMjZkODJmYzktMDYzNi00NWQ3LTllZTMtMWVhOTgxY2U4ODA3XkEyXkFqcGdeQXVyNzA4NzQyMjk@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>40</ID>
+    <Name>American Beauty</Name>
+    <Year>1999</Year>
+    <Genre>Drama</Genre>
+    <Producent>Sam Mendes</Producent>
+    <Score>8.4</Score>
+    <Breaf>A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.</Breaf>
+    <Description>After his death sometime in his forty-third year, suburbanite Lester Burnham tells of the last few weeks of his life, during which he had no idea of his imminent passing. He is a husband to real estate agent Carolyn Burnham and father to high school student Janie Burnham. Although Lester and Carolyn once loved each other, they now merely tolerate each other. Typical wallflower Janie too hates both her parents, the three who suffer individually in silence in their home life. Janie tries to steer clear of both her parents. Carolyn, relatively new to the real estate business, wants to create the persona of success to further her career, she aspiring to the professional life of Buddy Kane, the king of the real estate business in their neighborhood. </Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM4NTI5NzYyNV5BMl5BanBnXkFtZTgwNTkxNTYxMTE@._V1_SY1000_CR0,0,675,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BOGNiMmRmNDctN2YxNi00MTA0LTg4NTItNGMxMGY5ZmU4ZTU4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>41</ID>
+    <Name>The Dark Knight Rises</Name>
+    <Year>2012</Year>
+    <Genre>Action</Genre>
+    <Producent>Christopher Nolan</Producent>
+    <Score>8.4</Score>
+    <Breaf>Eight years after the Joker's reign of anarchy, the Dark Knight, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane.</Breaf>
+    <Description>espite his tarnished reputation after the events of The Dark Knight, in which he took the rap for Dent's crimes, Batman feels compelled to intervene to assist the city and its police force which is struggling to cope with Bane's plans to destroy the city.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BZTljYTdhOTMtOTI5MS00M2YwLWE1MzMtMjkyOGZkOWNmOWNiL2ltYWdlXkEyXkFqcGdeQXVyNjczMzc5NzQ@._V1_SX1777_CR0,0,1777,999_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>42</ID>
+    <Name>Vertigo</Name>
+    <Year>1958</Year>
+    <Genre>Thriller </Genre>
+    <Producent>Alfred Hitchcock</Producent>
+    <Score>8.4</Score>
+    <Breaf>A San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.</Breaf>
+    <Description>John "Scottie" Ferguson is a retired San Francisco police detective who suffers from acrophobia and Madeleine is the lady who leads him to high places. A wealthy shipbuilder who is an acquaintance from college days approaches Scottie and asks him to follow his beautiful wife, Madeleine. He fears she is going insane, maybe even contemplating suicide, he believes she is possessed by a dead ancestor. Scottie is skeptical, but agrees after he sees the beautiful Madeleine.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,645,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BN2Q1OTcyZWQtZDk4MS00ZDc3LTkzYjAtOWI4MzIxMzU3NjgzXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>43</ID>
+    <Name>Braveheart</Name>
+    <Year>1995</Year>
+    <Genre>Biography</Genre>
+    <Producent>Mel Gibson</Producent>
+    <Score>8.4</Score>
+    <Breaf>When his secret bride is executed for assaulting an English soldier who tried to rape her, Sir William Wallace begins a revolt against King Edward I of England.</Breaf>
+    <Description>William Wallace is a Scottish rebel who leads an uprising against the cruel English ruler Edward the Longshanks, who wishes to inherit the crown of Scotland for himself. When he was a young boy, William Wallace's father and brother, along with many others, lost their lives trying to free Scotland. Once he loses another of his loved ones, William Wallace begins his long quest to make Scotland free once and for all, along with the assistance of Robert the Bruce. Written by Anonymous</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BODg4NzA0MTktOGU5ZS00ODlkLWE3ZmQtYjAzNjNmM2E3NmEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_SX675_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BODYwNzcyMjIxNF5BMl5BanBnXkFtZTgwMDEyNzU5MTE@._V1_SY1000_CR0,0,1492,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>44</ID>
+    <Name>Reservoir Dogs</Name>
+    <Year>1992</Year>
+    <Genre>Crime</Genre>
+    <Producent>Quentin Tarantino</Producent>
+    <Score>8.3</Score>
+    <Breaf>After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.</Breaf>
+    <Description>Six criminals, who are strangers to each other, are hired by a crime boss, Joe Cabot, to carry out a diamond robbery. Right at the outset, they are given false names with the intention that they won't get too close and will concentrate on the job instead. They are completely sure that the robbery is going to be a success. But, when the police show up right at the time and the site of the robbery, panic spreads amongst the group members, and two of them are killed in the subsequent shootout, along with a few policemen and civilians. When the remaining people assemble at the premeditated rendezvous point (a warehouse), they begin to suspect that one of them is an undercover cop.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1ODU3MTQzOV5BMl5BanBnXkFtZTgwNzkxOTIwMjE@._V1_SY1000_CR0,0,1556,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>45</ID>
+    <Name>A Clockwork Orange</Name>
+    <Year>1971</Year>
+    <Genre>Crime</Genre>
+    <Producent>Stanley Kubrick</Producent>
+    <Score>8.3</Score>
+    <Breaf>In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.</Breaf>
+    <Description>Protagonist Alex DeLarge is an "ultraviolent" youth in futuristic Britain. As with all luck, his eventually runs out and he's arrested and convicted of murder and rape. While in prison, Alex learns of an experimental program in which convicts are programmed to detest violence. If he goes through the program, his sentence will be reduced and he will be back on the streets sooner than expected. But Alex's ordeals are far from over once he hits the mean streets of Britain that he had a hand in creating.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SY1000_CR0,0,675,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BOWI0Yjg4NWYtYzE3OC00NDgyLWI5OGQtOWExZTdmZTEyODUwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_SY1000_CR0,0,1659,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>46</ID>
+    <Name>Amadeus</Name>
+    <Year>1984</Year>
+    <Genre>Biography</Genre>
+    <Producent>Milos Forman</Producent>
+    <Score>8.3</Score>
+    <Breaf>The incredible story of Wolfgang Amadeus Mozart, told by his peer and secret rival Antonio Salieri - now confined to an insane asylum.</Breaf>
+    <Description>Antonio Salieri believes that Wolfgang Amadeus Mozart's music is divine and miraculous. He wishes he was himself as good a musician as Mozart so that he can praise the Lord through composing. He began his career as a devout man who believes his success and talent as a composer are God's rewards for his piety. He's also content as the respected, financially well-off, court composer of Austrian Emperor Joseph II. But he's shocked to learn that Mozart is such a vulgar creature, and can't understand why God favored Mozart to be his instrument. Salieri's envy has made him an enemy of God whose greatness was evident in Mozart. He is ready to take revenge against God and Mozart for his own musical mediocrity.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5NDkwMTk5N15BMl5BanBnXkFtZTYwODg3MDk2._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BODlhMDhlNDYtODgyYi00MGMyLWJlMGMtZmQ5OTVlYWY2ODc5XkEyXkFqcGdeQXVyNjgxMjk3MTk@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>47</ID>
+    <Name>Taxi Driver</Name>
+    <Year>1976</Year>
+    <Genre>Crime</Genre>
+    <Producent>Martin Scorsese</Producent>
+    <Score>8.3</Score>
+    <Breaf>A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, while attempting to save a preadolescent prostitute in the process.</Breaf>
+    <Description>Travis Bickle is an ex-Marine and Vietnam War veteran living in New York City. As he suffers from insomnia, he spends his time working as a taxi driver at night, watching porn movies at seedy cinemas during the day, or thinking about how the world, New York in particular, has deteriorated into a cesspool. He's a loner who has strong opinions about what is right and wrong with mankind. For him, the one bright spot in New York humanity is Betsy, a worker on the presidential nomination campaign of Senator Charles Palantine. He becomes obsessed with her. After an incident with her, he believes he has to do whatever he needs to make the world a better place in his opinion. One of his priorities is to be the savior for Iris, a twelve-year-old runaway and prostitute who he believes wants out of the profession and under the thumb of her pimp and lover Matthew.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BNGQxNDgzZWQtZTNjNi00M2RkLWExZmEtNmE1NjEyZDEwMzA5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,654,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMzQwNDM1NDY4MF5BMl5BanBnXkFtZTgwNjIwNzIwMjE@._V1_SY1000_SX1500_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>48</ID>
+    <Name>Dunkirk</Name>
+    <Year>2017</Year>
+    <Genre>Drama</Genre>
+    <Producent>Christopher Nolan</Producent>
+    <Score>8.3</Score>
+    <Breaf>Allied soldiers from Belgium, the British Empire and France are surrounded by the German Army, and evacuated during a fierce battle in World War II.</Breaf>
+    <Description>Evacuation of Allied soldiers from Belgium, the British Empire, and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26- June 04, 1940, during Battle of France in World War II.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,674,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzMjkyMTQzM15BMl5BanBnXkFtZTgwMzcyNDY4MjI@._V1_SX1500_CR0,0,1500,999_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>49</ID>
+    <Name>Inglourious Basterds</Name>
+    <Year>2009</Year>
+    <Genre>Drama</Genre>
+    <Producent>Quentin Tarantino</Producent>
+    <Score>8.3</Score>
+    <Breaf>In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.</Breaf>
+    <Description>In German-occupied France, young Jewish refugee Shosanna Dreyfus witnesses the slaughter of her family by Colonel Hans Landa. Narrowly escaping with her life, she plots her revenge several years later when German war hero Fredrick Zoller takes a rapid interest in her and arranges an illustrious movie premiere at the theater she now runs. With the promise of every major Nazi officer in attendance, the event catches the attention of the "Basterds", a group of Jewish-American guerrilla soldiers led by the ruthless Lt. Aldo Raine. As the relentless executioners advance and the conspiring young girl's plans are set in motion, their paths will cross for a fateful evening that will shake the very annals of history.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_SX675_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzNTQxNzE1N15BMl5BanBnXkFtZTcwMTA0OTY3Mg@@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>50</ID>
+    <Name>Snatch</Name>
+    <Year>2000</Year>
+    <Genre>Crime </Genre>
+    <Producent>Guy Ritchie</Producent>
+    <Score>8.3</Score>
+    <Breaf>Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond.</Breaf>
+    <Description>Turkish and his close friend/accomplice Tommy get pulled into the world of match fixing by the notorious Brick Top. Things get complicated when the boxer they had lined up gets badly beaten by Pitt, a 'pikey' ( slang for an Irish Gypsy)- who comes into the equation after Turkish, an unlicensed boxing promoter wants to buy a caravan off the Irish Gypsies. They then try to convince Pitt not only to fight for them, but to lose for them too. Whilst all this is going on, a huge diamond heist takes place, and a fistful of motley characters enter the story, including 'Cousin Avi', 'Boris The Blade', 'Franky Four Fingers' and 'Bullet Tooth Tony'. Things go from bad to worse as it all becomes about the money, the guns, and the damned dog!</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_SX684_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxNTIyNzMxMV5BMl5BanBnXkFtZTcwMTQ3OTczNQ@@._V1_SY1000_CR0,0,1487,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>51</ID>
+    <Name>Good Will Hunting</Name>
+    <Year>1997</Year>
+    <Genre>Drama</Genre>
+    <Producent>Gus Van Sant</Producent>
+    <Score>8.3</Score>
+    <Breaf>Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.</Breaf>
+    <Description>A touching tale of a wayward young man who struggles to find his identity, living in a world where he can solve any problem, except the one brewing deep within himself, until one day he meets his soul mate who opens his mind and his heart.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,655,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BYjljOWE3N2YtMGIxNi00NjgzLTg3ZmYtYWE2NTYwMDkyNzk5XkEyXkFqcGdeQXVyNDIzNDExOQ@@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>52</ID>
+    <Name>The Hunt</Name>
+    <Year>2012</Year>
+    <Genre>Drama</Genre>
+    <Producent>Thomas Vinterberg</Producent>
+    <Score>8.3</Score>
+    <Breaf>A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.</Breaf>
+    <Description>Lucas is a Kindergarten teacher who takes great care of his students. Unfortunately for him, young Klara has a run-away imagination and concocts a lie about her teacher. Before Lucas is even able to understand the consequences, he has become the outcast of the town. The hunt is on to prove his innocence before it's taken from him for good.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BNDM2MzMwMzcxNF5BMl5BanBnXkFtZTcwNTczMDk3OA@@._V1_SY1000_CR0,0,681,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMDkxYjA3MDQtYzA1Zi00ZjRiLTgxYWEtMDliNDFhOGJiNmIwXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>53</ID>
+    <Name>Scarface</Name>
+    <Year>1983</Year>
+    <Genre>Crime</Genre>
+    <Producent>Brian De Palma</Producent>
+    <Score>8.3</Score>
+    <Breaf>In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.</Breaf>
+    <Description>Tony Montana manages to leave Cuba during the Mariel exodus of 1980. He finds himself in a Florida refugee camp but his friend Manny has a way out for them: undertake a contract killing and arrangements will be made to get a green card. He's soon working for drug dealer Frank Lopez and shows his mettle when a deal with Colombian drug dealers goes bad. He also brings a new level of violence to Miami. Tony is protective of his younger sister but his mother knows what he does for a living and disowns him.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,666,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BYjgxMjgyNjgtZTg3OC00ZWUzLThjYjAtMDBkYTdmYjE5MTY1XkEyXkFqcGdeQXVyNjY4OTM0MTA@._V1_SX1777_CR0,0,1777,999_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>54</ID>
+    <Name>Batman Begins</Name>
+    <Year>2005</Year>
+    <Genre>Action</Genre>
+    <Producent>Christopher Nolan</Producent>
+    <Score>8.3</Score>
+    <Breaf>After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it.</Breaf>
+    <Description>When his parents are killed, billionaire playboy Bruce Wayne relocates to Asia where he is mentored by Henri Ducard and Ra's Al Ghul in how to fight evil. When learning about the plan to wipe out evil in Gotham City by Ducard, Bruce prevents this plan from getting any further and heads back to his home. Back in his original surroundings, Bruce adopts the image of a bat to strike fear into the criminals and the corrupt as the icon known as 'Batman'. But it doesn't stay quiet for long.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BNTM3OTc0MzM2OV5BMl5BanBnXkFtZTYwNzUwMTI3._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNzVlYmQyZDctNmI2ZC00ZTc3LTg4NjgtNjQwMjQxNmFjMWZhXkEyXkFqcGdeQXVyNzA4NzQyMjk@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>55</ID>
+    <Name>Die Hard</Name>
+    <Year>1988</Year>
+    <Genre>Thriller</Genre>
+    <Producent>John McTiernan</Producent>
+    <Score>8.2</Score>
+    <Breaf>John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.</Breaf>
+    <Description>NYPD cop John McClane goes on a Christmas vacation to visit his wife Holly in Los Angeles where she works for the Nakatomi Corporation. While they are at the Nakatomi headquarters for a Christmas party, a group of bank robbers led by Hans Gruber take control of the building and hold everyone hostage, with the exception of John, while they plan to perform a lucrative heist. Unable to escape and with no immediate police response, John is forced to take matters into his own hands.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BYmY2ZGEwMTYtNjBmZS00OGE4LWEyMmUtNjAwMWUxZjVmZTRiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,637,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNTYwMDM5NjQtNzdkMy00N2U5LWFkYjctNDRjYmJiNWI1NTU0XkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>56</ID>
+    <Name>Casino</Name>
+    <Year>1995</Year>
+    <Genre>Crime</Genre>
+    <Producent>Martin Scorsese</Producent>
+    <Score>8.2</Score>
+    <Breaf>A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive, compete against each other over a gambling empire and over a fast living and fast loving socialite.</Breaf>
+    <Description>This Martin Scorsese film depicts the Janus-like quality of Las Vegas--it has a glittering, glamorous face, as well as a brutal, cruel one. Ace Rothstein and Nicky Santoro, mobsters who move to Las Vegas to make their mark, live and work in this paradoxical world. Seen through their eyes, each as a foil to the other, the details of mob involvement in the casinos of the 1970's and '80's are revealed. Ace is the smooth operator of the Tangiers casino, while Nicky is his boyhood friend and tough strongman, robbing and shaking down the locals. However, they each have a tragic flaw--Ace falls in love with a hustler, Ginger, and Nicky falls into an ever-deepening spiral of drugs and violence.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_CR0,0,666,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNTI0NTAxMjMyOV5BMl5BanBnXkFtZTgwODczMTg1MDI@._V1_SY1000_CR0,0,1461,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>57</ID>
+    <Name>A Beautiful Mind</Name>
+    <Year>2001</Year>
+    <Genre>Drama</Genre>
+    <Producent>Ron Howard</Producent>
+    <Score>8.2</Score>
+    <Breaf>After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.</Breaf>
+    <Description>From the heights of notoriety to the depths of depravity, John Forbes Nash, Jr. experienced it all. A mathematical genius, he made an astonishing discovery early in his career and stood on the brink of international acclaim. But the handsome and arrogant Nash soon found himself on a painful and harrowing journey of self-discovery. After many years of struggle, he eventually triumphed over his tragedy, and finally - late in life - received the Nobel Prize.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,673,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyODk3OTg2NV5BMl5BanBnXkFtZTgwMzQ2OTUzNTE@._V1_SY1000_CR0,0,1545,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>58</ID>
+    <Name>The Wolf of Wall Street</Name>
+    <Year>2013</Year>
+    <Genre>Comedy</Genre>
+    <Producent>Martin Scorsese</Producent>
+    <Score>8.2</Score>
+    <Breaf>Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.</Breaf>
+    <Description>Jordan Belfort is a Long Island penny stockbroker who served 22 months in prison for defrauding investors in a massive 1990s securities scam that involved widespread corruption on Wall Street and in the corporate banking world, including shoe designer Steve Madden.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTZmMjBjMGEtZDMyYi00NWRlLWIwMzEtNzI2ZmMzOTdiZDVmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_SX1777_CR0,0,1777,740_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>59</ID>
+    <Name>Warrior</Name>
+    <Year>2011</Year>
+    <Genre>Drama</Genre>
+    <Producent>Gavin O'Connor</Producent>
+    <Score>8.2</Score>
+    <Breaf>The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.</Breaf>
+    <Description>Two brothers face the fight of a lifetime - and the wreckage of their broken family - within the brutal, high-stakes world of Mixed Martial Arts (MMA) fighting in Lionsgate's action/drama, WARRIOR. A former Marine, haunted by a tragic past, Tommy Riordan returns to his hometown of Pittsburgh and enlists his father, a recovered alcoholic and his former coach, to train him for an MMA tournament awarding the biggest purse in the history of the sport. As Tommy blazes a violent path towards the title prize, his brother, Brendan, a former MMA fighter unable to make ends meet as a public school teacher, returns to the amateur ring to provide for his family. Even though years have passed, recriminations and past betrayals keep Brendan bitterly estranged from both Tommy and his father.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_SY1000_CR0,0,648,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BYzliZTc4YmUtYzk3My00MjcyLTgyYjctNTNlMDM2ZTdiZTVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyODYwOTMxMA@@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>60</ID>
+    <Name>Trainspotting</Name>
+    <Year>1996</Year>
+    <Genre>Drama</Genre>
+    <Producent>Danny Boyle</Producent>
+    <Score>8.2</Score>
+    <Breaf>Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.</Breaf>
+    <Description>A wild, freeform, Rabelaisian trip through the darkest recesses of Edinburgh low-life, focusing on Mark Renton and his attempt to give up his heroin habit, and how the latter affects his relationship with family and friends: Sean Connery wannabe Sick Boy, dimbulb Spud, psycho Begbie, 14-year-old girlfriend Diane, and clean-cut athlete Tommy, who's never touched drugs but can't help being curious about them.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_SX675_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNzA4NTQ1OTE2MV5BMl5BanBnXkFtZTcwODI0OTAyNg@@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>61</ID>
+    <Name>Finding Nemo</Name>
+    <Year>2003</Year>
+    <Genre>Animation</Genre>
+    <Producent>Andrew Stanton</Producent>
+    <Score>8.1</Score>
+    <Breaf>After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.</Breaf>
+    <Description>A clown fish named Marlin lives in the Great Barrier Reef loses his son, Nemo. After he ventures into the open sea, despite his father's constant warnings about many of the ocean's dangers. Nemo is abducted by a boat and netted up and sent to a dentist's office in Sydney. So, while Marlin ventures off to try to retrieve Nemo, Marlin meets a fish named Dory, a blue tang suffering from short-term memory loss. The companions travel a great distance, encountering various dangerous sea creatures such as sharks, anglerfish and jellyfish, in order to rescue Nemo from the dentist's office, which is situated by Sydney Harbour.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,671,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BNjA5NTk3NTI0MF5BMl5BanBnXkFtZTcwMzUzOTAyNw@@._V1_SX1777_CR0,0,1777,958_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>62</ID>
+    <Name>Kill Bill: Vol. 1</Name>
+    <Year>2003</Year>
+    <Genre>Action</Genre>
+    <Producent>Quentin Tarantino</Producent>
+    <Score>8.1</Score>
+    <Breaf>The Bride wakens from a four-year coma. The child she carried in her womb is gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of.</Breaf>
+    <Description>he lead character, called 'The Bride,' was a member of the Deadly Viper Assassination Squad, led by her lover 'Bill.' Upon realizing she was pregnant with Bill's child, 'The Bride' decided to escape her life as a killer. She fled to Texas, met a young man, who, on the day of their wedding rehearsal was gunned down by an angry and jealous Bill (with the assistance of the Deadly Viper Assassination Squad). Four years later, 'The Bride' wakes from a coma, and discovers her baby is gone. She, then, decides to seek revenge upon the five people who destroyed her life and killed her baby. The saga of Kill Bill Volume I begins.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BYTczMGFiOWItMjA3Mi00YTU5LWIwMDgtYTEzNjRkNDkwMTE2XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxNzEwNzEyN15BMl5BanBnXkFtZTgwMjc4MzA4MTI@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>63</ID>
+    <Name>Gone Girl</Name>
+    <Year>2014</Year>
+    <Genre>Mystery</Genre>
+    <Producent>David Fincher</Producent>
+    <Score>8.1</Score>
+    <Breaf>With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.</Breaf>
+    <Description>On the occasion of his fifth wedding anniversary, Nick Dunne reports that his wife, Amy, has gone missing. Under pressure from the police and a growing media frenzy, Nick's portrait of a blissful union begins to crumble. Soon his lies, deceits and strange behavior have everyone asking the same dark question: Did Nick Dunne kill his wife?</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BYjgwY2E1N2QtNDJkMi00YzE4LThiYTItYWI5YmE4NWMzMGFhXkEyXkFqcGdeQXVyMjU3OTA4NzQ@._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4NDgyMDk3Nl5BMl5BanBnXkFtZTgwNjg3MDM3MjE@._V1._CR41,13,2919,1938_SY1000_CR0,0,1506,1000_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>64</ID>
+    <Name>Logan</Name>
+    <Year>2017</Year>
+    <Genre>Action</Genre>
+    <Producent>James Mangold</Producent>
+    <Score>8.2</Score>
+    <Breaf>In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces.</Breaf>
+    <Description>In 2029 the mutant population has shrunken significantly and the X-Men have disbanded. Logan, whose power to self-heal is dwindling, has surrendered himself to alcohol and now earns a living as a chauffeur. He takes care of the ailing old Professor X whom he keeps hidden away. One day, a female stranger asks Logan to drive a girl named Laura to the Canadian border. At first he refuses, but the Professor has been waiting for a long time for her to appear. Laura possesses an extraordinary fighting prowess and is in many ways like Wolverine. She is pursued by sinister figures working for a powerful corporation; this is because her DNA contains the secret that connects her to Logan.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwODQwNTg4OV5BMl5BanBnXkFtZTgwMTk4MTAzMjI@._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BYzAyYzVjMGUtMTdjMC00OTM2LTk4NzMtYzdmNjU5NTc2YzEzXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_SX1777_CR0,0,1777,758_AL_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>65</ID>
+    <Name>Rocky</Name>
+    <Year>1976</Year>
+    <Genre>Drama</Genre>
+    <Producent>John G. Avildsen</Producent>
+    <Score>8.1</Score>
+    <Breaf>Rocky Balboa, a small-time boxer, gets a supremely rare chance to fight heavy-weight champion Apollo Creed in a bout in which he strives to go the distance for his self-respect.</Breaf>
+    <Description>Rocky Balboa is a struggling boxer trying to make the big time, working as a debt collector for a pittance. When heavyweight champion Apollo Creed visits Philadelphia, his managers want to set up an exhibition match between Creed and a struggling boxer, touting the fight as a chance for a "nobody" to become a "somebody". The match is supposed to be easily won by Creed, but someone forgot to tell Rocky, who sees this as his only shot at the big time.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NzkxNDk5MF5BMl5BanBnXkFtZTcwMzQ3NTMyNA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BMTMyMDk5OTk1NV5BMl5BanBnXkFtZTcwNzM3NTMyNA@@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>66</ID>
+    <Name>Catch Me If You Can</Name>
+    <Year>2002</Year>
+    <Genre>Drama</Genre>
+    <Producent>Steven Spielberg</Producent>
+    <Score>8.1</Score>
+    <Breaf>The story of Frank Abagnale Jr., before his 19th birthday, successfully forged millions of dollars' worth of checks while posing as a Pan Am pilot, a doctor, and legal prosecutor as a seasoned and dedicated FBI agent pursues him.</Breaf>
+    <Description>New Rochelle, the 1960s. High schooler Frank Abagnale Jr. idolizes his father, who's in trouble with the IRS. When his parents separate, Frank runs away to Manhattan with $25 in his checking account, vowing to regain dad's losses and get his parents back together. Just a few years later, the FBI tracks him down in France; he's extradited, tried, and jailed for passing more than $4,000,000 in bad checks. Along the way, he's posed as a Pan Am pilot, a pediatrician, and an attorney. And, from nearly the beginning of this life of crime, he's been pursued by a dour FBI agent, Carl Hanratty. What starts as cat and mouse becomes something akin to father and son.</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BYzdkN2RhOTYtYWE1Ni00M2MzLWE2YmEtZWYyZDkyNzg0MzA0XkEyXkFqcGdeQXVyNjMwODY0MTg@._V1_.jpg</Image2>
+  </Movie>
+  <Movie>
+    <ID>67</ID>
+    <Name>The Terminator</Name>
+    <Year>1984</Year>
+    <Genre>Sci-Fi </Genre>
+    <Producent>James Cameron</Producent>
+    <Score>8</Score>
+    <Breaf>A seemingly indestructible humanoid cyborg is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.</Breaf>
+    <Description>A cyborg is sent from the future on a deadly mission. He has to kill Sarah Connor, a young woman whose life will have a great significance in years to come. Sarah has only one protector - Kyle Reese - also sent from the future. The Terminator uses his exceptional intelligence and strength to find Sarah, but is there any way to stop the seemingly indestructible cyborg ? Written by Colin Tinto &lt;cst@imdb.com&gt;</Description>
+    <Image1>https://images-na.ssl-images-amazon.com/images/M/MV5BODE1MDczNTUxOV5BMl5BanBnXkFtZTcwMTA0NDQyNA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</Image1>
+    <Image2>https://images-na.ssl-images-amazon.com/images/M/MV5BZTBlNDZkMmUtZTgzYS00NjZiLTkwY2QtMGNjMDE4MGYxNjE4XkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_.jpg</Image2>
+  </Movie>
+</ArrayOfMovie>

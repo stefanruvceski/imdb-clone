@@ -1,0 +1,14 @@
+﻿<Window x:Class="update_database.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:update_database"
+        mc:Ignorable="d"
+        Title="Database update" Height="450.5" Width="364.774"  Background="#FF4B4B4B" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="button" Content="Update" Margin="66,285,65,50" FontSize="48" FontFamily="Baskerville Old Face" FontWeight="Bold" Background="#FF4B4B4B" BorderBrush="White" Foreground="White" Click="button_Click"/>
+        <TextBlock x:Name="textBlock" TextAlignment="Center" HorizontalAlignment="Left" Margin="66,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="99" Width="228" Foreground="White" FontSize="20" FontFamily="Baskerville Old Face"><Run/><LineBreak/><Run Text="Click Update to update the XML database."/></TextBlock>
+
+    </Grid>
+</Window>
